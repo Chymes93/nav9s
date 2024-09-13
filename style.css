@@ -38,7 +38,7 @@ body {
     outline: none;
     box-shadow: none;
     background: transparent;
-    border: 1px solid rgb(112, 105, 105);
+    border: 1px solid rgb(146, 142, 142);
     border-radius: 20px;
     color:#1E0E62;
 }
@@ -47,8 +47,10 @@ body {
     margin-top: 2px;
 }
 
-.over a {
-    color:rgb(120, 118, 118)
+.over {
+    color:rgb(120, 118, 118);
+    margin-top: 5px;
+    
 }
 
 .paraimage {
@@ -73,11 +75,13 @@ body {
 .hero-btna {
     /* border: 0; */
     background: #482BE7;
-    padding: 5px;
+    padding: 10px;
     border-radius: 100px;
     /* width: 90px; */
     color: rgb(245, 242, 242);
-    margin-left: 150px;
+    margin-left: px;
+    margin-top: 140px;
+    border: #482BE7;
 }
 
 .headerpar-div h1 {
@@ -197,6 +201,7 @@ footer {
 }
 .call-to-action button {
     background: #E93A7D;
+    border: #E93A7D;
 }
 
 .btnaa {
